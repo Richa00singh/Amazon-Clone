@@ -1,0 +1,13 @@
+/* * Styling for root selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito Sans", serif;
+}
+
+.nav-belt{
+    width: 100%;
+    background-color: rgb(15,17,17);
+    height: 60px;
+}
